@@ -1,0 +1,594 @@
+[
+ {
+   "A": "Código Curso",
+   "B": "Nombre Curso",
+   "C": "Horas Semanales(*)",
+   "D": "Créditos",
+   "E": "Tipo",
+   "F": "Pre-Requisito"
+ },
+ {
+   "A": "Cursos de nivelación",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "100000X101",
+   "B": "NIVELACIÓN DE REDACCIÓN",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": ""
+ },
+ {
+   "A": "100000X103",
+   "B": "NIVELACIÓN DE MATEMÁTICA-HUMANIDADES",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": ""
+ },
+ {
+   "A": "1er ciclo",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "100000VU03",
+   "B": "INTRODUCCIÓN A LA VIDA UNIVERSITARIA (IVU)",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": ""
+ },
+ {
+   "A": "100000N09I",
+   "B": "INDIVIDUO Y MEDIO AMBIENTE",
+   "C": "2",
+   "D": "2",
+   "E": "O",
+   "F": "100000X101"
+ },
+ {
+   "A": "100000N01I",
+   "B": "COMPRENSIÓN Y REDACCIÓN DE TEXTOS I",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000X101"
+ },
+ {
+   "A": "100000D01H",
+   "B": "ECONOMÍA GENERAL",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": ""
+ },
+ {
+   "A": "100000D02H",
+   "B": "HISTORIA DEL DERECHO",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": ""
+ },
+ {
+   "A": "100000D03H",
+   "B": "INTRODUCCIÓN AL DERECHO",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": ""
+ },
+ {
+   "A": "2do ciclo",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "100000N03I",
+   "B": "INGLÉS I",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": ""
+ },
+ {
+   "A": "100000A16E",
+   "B": "COMPRENSIÓN Y REDACCIÓN DE TEXTOS II",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000N01I"
+ },
+ {
+   "A": "100000DH08",
+   "B": "DERECHO DE PERSONAS",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000D03H"
+ },
+ {
+   "A": "100000DH07",
+   "B": "INSTITUCIONES DEL DERECHO CIVIL",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000D03H"
+ },
+ {
+   "A": "100000DH06",
+   "B": "FILOSOFÍA DEL DERECHO",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000D02H"
+ },
+ {
+   "A": "100000D04H",
+   "B": "CIENCIA POLÍTICA",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": ""
+ },
+ {
+   "A": "3er ciclo",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "100000N05I",
+   "B": "INGLÉS II",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000N03I"
+ },
+ {
+   "A": "100000N06I",
+   "B": "PROBLEMAS Y DESAFÍOS EN EL PERÚ ACTUAL",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000N09I, 100000N01I"
+ },
+ {
+   "A": "100000DH12",
+   "B": "TEORÍA GENERAL DEL ACTO JURÍDICO",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000DH07"
+ },
+ {
+   "A": "100000DH73",
+   "B": "DERECHO DE FAMILIA Y SUCESIONES",
+   "C": "5",
+   "D": "4",
+   "E": "O",
+   "F": "100000DH07"
+ },
+ {
+   "A": "100000DH72",
+   "B": "DERECHOS HUMANOS",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000DH06"
+ },
+ {
+   "A": "100000D05H",
+   "B": "DERECHO CONSTITUCIONAL",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000D04H"
+ },
+ {
+   "A": "4to ciclo",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "100000N08I",
+   "B": "INGLÉS III",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000N05I"
+ },
+ {
+   "A": "100000N07C",
+   "B": "CIUDADANÍA Y REFLEXIÓN ÉTICA",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000N01I, 100000N09I"
+ },
+ {
+   "A": "100000D09H",
+   "B": "DERECHO DE OBLIGACIONES",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000DH12"
+ },
+ {
+   "A": "100000D08H",
+   "B": "TEORÍA GENERAL DEL PROCESO",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000DH12"
+ },
+ {
+   "A": "100000D07H",
+   "B": "DERECHO INTERNACIONAL PUBLICO",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000D05H"
+ },
+ {
+   "A": "100000D06H",
+   "B": "DERECHO PROCESAL CONSTITUCIONAL",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000D05H"
+ },
+ {
+   "A": "5to ciclo",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "100000N02C",
+   "B": "INVESTIGACIÓN ACADÉMICA",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000N01I, 100000N09I"
+ },
+ {
+   "A": "100000N10I",
+   "B": "INGLÉS IV",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000N08I"
+ },
+ {
+   "A": "100000D13H",
+   "B": "DERECHOS REALES",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000D09H"
+ },
+ {
+   "A": "100000D12H",
+   "B": "DERECHO PROCESAL CIVIL I",
+   "C": "5",
+   "D": "4",
+   "E": "O",
+   "F": "100000D08H"
+ },
+ {
+   "A": "100000D11H",
+   "B": "DERECHO ADMINISTRATIVO",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000D05H"
+ },
+ {
+   "A": "100000D10H",
+   "B": "DERECHO PENAL GENERAL",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000D05H"
+ },
+ {
+   "A": "6to ciclo",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "100000D18H",
+   "B": "CURSO INTEGRADOR I: INTERDISCIPLINARIAS",
+   "C": "6",
+   "D": "5",
+   "E": "O",
+   "F": "100000D13H, 100000D10H, 100000D11H"
+ },
+ {
+   "A": "100000N11I",
+   "B": "FORMACIÓN PARA LA EMPLEABILIDAD",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000D12H"
+ },
+ {
+   "A": "100000D17H",
+   "B": "DERECHO PROCESAL CIVIL II",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000D12H"
+ },
+ {
+   "A": "100000D16H",
+   "B": "DERECHO TRIBUTARIO GENERAL",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000D11H"
+ },
+ {
+   "A": "100000D15H",
+   "B": "DERECHO PROCESAL ADMINISTRATIVO",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000D11H"
+ },
+ {
+   "A": "100000D14H",
+   "B": "DERECHO PENAL ESPECIAL",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000D10H"
+ },
+ {
+   "A": "7mo ciclo",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "100000D23H",
+   "B": "DERECHO LABORAL",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000D15H"
+ },
+ {
+   "A": "100000D22H",
+   "B": "DERECHO REGISTRAL Y NOTARIAL",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000D15H"
+ },
+ {
+   "A": "100000D21H",
+   "B": "CONTRATOS",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000D13H"
+ },
+ {
+   "A": "100000D20H",
+   "B": "DERECHO TRIBUTARIO ESPECIAL",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000D16H"
+ },
+ {
+   "A": "100000DH26",
+   "B": "GESTIÓN PUBLICA",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000D15H"
+ },
+ {
+   "A": "100000D19H",
+   "B": "DERECHO PENAL ECONÓMICO",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000D14H"
+ },
+ {
+   "A": "8vo ciclo",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "100000D29H",
+   "B": "DERECHO PROCESAL LABORAL",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000D23H"
+ },
+ {
+   "A": "100000TV15",
+   "B": "DERECHO INTERNACIONAL PRIVADO",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000D21H"
+ },
+ {
+   "A": "100000D27H",
+   "B": "DERECHO DE LA PROPIEDAD INTELECTUAL Y DERECHO DEL CONSUMIDOR",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000D21H"
+ },
+ {
+   "A": "100000D26H",
+   "B": "TRIBUTACIÓN MUNICIPAL Y REGIONAL",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000D20H"
+ },
+ {
+   "A": "100000D25H",
+   "B": "FORMACIÓN PARA LA INVESTIGACIÓN - DERECHO",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000A16E, 100000N02C, 100000D18H"
+ },
+ {
+   "A": "100000DH74",
+   "B": "DERECHO PROCESAL PENAL Y LITIGACIÓN ORAL I",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000D19H"
+ },
+ {
+   "A": "9no ciclo",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "100000D31H",
+   "B": "CURSO INTEGRADOR II: DERECHO Y JURISPRUDENCIA",
+   "C": "6",
+   "D": "5",
+   "E": "O",
+   "F": "100000D18H, 100000DH74"
+ },
+ {
+   "A": "100000DH41",
+   "B": "DERECHO COMERCIAL",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000TV15"
+ },
+ {
+   "A": "100000D30H",
+   "B": "METODOLOGÍA DE LA INVESTIGACIÓN EN DERECHO",
+   "C": "2",
+   "D": "2",
+   "E": "O",
+   "F": "100000D25H"
+ },
+ {
+   "A": "100000DH39",
+   "B": "DERECHO PROCESAL TRIBUTARIO",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000D26H"
+ },
+ {
+   "A": "100000DH38",
+   "B": "PROYECTOS DE INVERSIÓN",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000DH26"
+ },
+ {
+   "A": "100000DH37",
+   "B": "DERECHO PROCESAL PENAL Y LITIGACIÓN ORAL II",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000DH74"
+ },
+ {
+   "A": "10mo ciclo",
+   "B": "",
+   "C": "",
+   "D": "",
+   "E": "",
+   "F": ""
+ },
+ {
+   "A": "100000D35H",
+   "B": "ÉTICA PROFESIONAL - DERECHO",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000D31H"
+ },
+ {
+   "A": "100000DH46",
+   "B": "CLÍNICA JURÍDICA",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000D31H"
+ },
+ {
+   "A": "100000D34H",
+   "B": "TALLER DE INVESTIGACIÓN - DERECHO",
+   "C": "4",
+   "D": "3",
+   "E": "O",
+   "F": "100000D25H, 100000D30H"
+ },
+ {
+   "A": "100000D33H",
+   "B": "DERECHO ADUANERO",
+   "C": "3",
+   "D": "3",
+   "E": "O",
+   "F": "100000DH39"
+ },
+ {
+   "A": "100000DH43",
+   "B": "SEMINARIO DE GESTIÓN PUBLICA",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000DH38"
+ },
+ {
+   "A": "100000D32H",
+   "B": "SEMINARIO TALLER DE DERECHO PROCESAL PENAL",
+   "C": "4",
+   "D": "4",
+   "E": "O",
+   "F": "100000DH37"
+ }
+]
